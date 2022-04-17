@@ -1,0 +1,27 @@
+body 
+{
+    background-color: #000;
+    color: #fff;
+    font-size: 21px;
+}
+
+h1
+{
+    color:#d1621d;
+}
+
+p
+{
+    font-family: gill sans;
+}
+
+div
+{
+    color: #00ff;
+    width: 500px;
+}
+
+span
+{
+    font-family: monospace;
+}
